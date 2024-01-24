@@ -1,0 +1,1 @@
+@keyframes spinner{to{transform:rotate(1turn)}}.fa-spinner{animation:spinner 1s linear infinite}a:hover{cursor:pointer}.avatar{max-width:50px}
